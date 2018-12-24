@@ -2,4 +2,5 @@
 
 有必要的时候切割，方便下面处理。
 
-个人测试：300+W条的数据在txt文件中直接处理就OK
+个人测试：300+W条的数据在txt文件中直接处理就OK  
+数据类型：rtime,countrycode,httpclientIp, anchoruid,userip,useruid,cubeuid,tmpuid,isquic,tsbw,tsinterval 
