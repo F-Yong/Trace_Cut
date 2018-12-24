@@ -9,3 +9,6 @@ K-Means目录是通过K-means分类算法对网络trace的分类
 分类之后的的数据就可以在
 https://github.com/hongzimao/pensieve
 中的test_live中进行跑了。
+
+
+PS:目录里面的data目录和00000_0.txt都是截取的极少量数据，请用自己的数据测试。
